@@ -1,0 +1,8 @@
+@inproceedings{REPO226,
+    author = "Cao, Jiangxia and Cong, Xin and Sheng, Jiawei and Liu, Tingwen and Wang, Bin",
+    booktitle = "Proceedings of the 31st ACM International Conference on Information \\& Knowledge Management",
+    numpages = "10",
+    pages = "138¨C147",
+    title = "{Contrastive Cross-Domain Sequential Recommendation}",
+    year = "2022"
+}
